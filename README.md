@@ -1,2 +1,2 @@
 # Drum-Kit
-Online drum kit for the drummers in the house
+Online drum kit for drummers in the house
